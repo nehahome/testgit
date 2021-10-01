@@ -1,1 +1,2 @@
 This is M3 text
+added new m3 text
